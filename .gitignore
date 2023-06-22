@@ -1,0 +1,11 @@
+.idea
+# mpeltonen/sbt-idea plugin
+.idea_modules
+.gradle
+out
+build
+# File-based project format
+*.iws
+/hw8/src/main/resources/audios.zip
+/hw8/src/main/resources/images.zip
+/hw8/src/main/resources/videos.zip
